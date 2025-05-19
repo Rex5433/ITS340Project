@@ -1,0 +1,16 @@
+PatientID: 1
+Patient Name: Robert Johnson
+Questions: Input: Please enter Family Member Name
+Input: What is your relation to family member?
+Input: Do they live with you?
+Do they have a disorder?
+Input: What general disorder do they have?
+Input: What is the specific type of disorder?
+Input: Does their disorder have a health risk factor?
+
+Answers: test
+none
+no
+ah
+ah
+no
